@@ -13,3 +13,4 @@ print("hola  "+amigo+ "tienes "+edad+" ya estas en "+grado+"esfuerzate,que ya es
 
 
 
+git@github.com:lusin20261/6grauBORDA.git
